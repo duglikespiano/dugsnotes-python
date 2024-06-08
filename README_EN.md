@@ -32,4 +32,5 @@
 ### 3. Contents
 
 1. Data types
+2. Function
    </br>

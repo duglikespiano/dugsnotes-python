@@ -32,4 +32,5 @@
 ### 3. 内容
 
 1. Data types
+2. Function
    </br>

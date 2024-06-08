@@ -32,4 +32,5 @@
 ### 3. 내용
 
 1. Data types
+2. Function
    </br>
