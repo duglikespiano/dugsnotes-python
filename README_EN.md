@@ -8,6 +8,7 @@
 
 1. Overview
 2. Project goal
+3. Contents
    </br>
 
 ### 1. Overview
@@ -26,4 +27,9 @@
 1. To learn fundamental of Python
 2. To learn fundamental of Flask
 3. To learn fundamental of Blockchain
+   </br>
+
+### 3. Contents
+
+1. Data types
    </br>
