@@ -33,4 +33,5 @@
 
 1. Data types
 2. Function
+3. Loop
    </br>
