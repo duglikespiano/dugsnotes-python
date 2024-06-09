@@ -34,4 +34,5 @@
 1. Data types
 2. Function
 3. Loop
+4. Conditionals
    </br>
