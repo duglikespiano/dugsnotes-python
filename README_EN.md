@@ -35,4 +35,5 @@
 2. Function
 3. Loop
 4. Conditionals
+5. is
    </br>
