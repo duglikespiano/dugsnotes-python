@@ -37,4 +37,5 @@
 4. Conditionals
 5. is
 6. range
+7. List comprehensions
    </br>
