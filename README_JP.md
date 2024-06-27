@@ -38,4 +38,5 @@
 5. is
 6. range
 7. List comprehensions
+8. Range selector
    </br>
