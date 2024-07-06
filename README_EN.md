@@ -39,4 +39,5 @@
 6. range
 7. List comprehensions
 8. Range selector
+9. Format
    </br>
