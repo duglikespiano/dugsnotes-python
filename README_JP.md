@@ -40,4 +40,5 @@
 7. List comprehensions
 8. Range selector
 9. Format
-   </br>
+10. Escaping characters
+    </br>
