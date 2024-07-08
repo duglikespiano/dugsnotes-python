@@ -41,4 +41,5 @@
 8. Range selector
 9. Format
 10. Escaping characters
+11. Map function
     </br>
