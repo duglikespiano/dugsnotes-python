@@ -42,4 +42,5 @@
 9. Format
 10. Escaping characters
 11. Map function
+12. Lambda function
     </br>
