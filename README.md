@@ -43,4 +43,5 @@
 10. Escaping characters
 11. Map function
 12. Lambda function
+13. Function arguments
     </br>
