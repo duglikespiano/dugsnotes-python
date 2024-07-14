@@ -1,4 +1,4 @@
-f = open('15_working_with_files/text.txt', mode='w')
+f = open('15_writing_data_into_files/text.txt', mode='w')
 f.write('Hello from Python! hehehe')
 f.close()
 
