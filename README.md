@@ -55,4 +55,5 @@
 22. Attributes in constructor
 23. Printing classes
 24. Private attributes
+25. Inheritance
     </br>
