@@ -15,7 +15,7 @@
 
 - Project title : dugsnotes_python
 - Related URL : https://www.udemy.com/course/learn-python-by-building-a-blockchain-cryptocurrency/
-- Period : June 08 2024 - In progress
+- Period : June 08 2024 - July 26 2024
 - Member(s) : Dug Park
 - Tech stack : </br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -57,4 +57,5 @@
 24. Private attributes
 25. Inheritance
 26. Creating packages
+27. Flask
     </br>

@@ -15,7 +15,7 @@
 
 - 프로젝트명 : dugsnotes_python
 - 관련URL : https://www.udemy.com/course/learn-python-by-building-a-blockchain-cryptocurrency/
-- 기간 : 2024.06.08 - 진행중
+- 기간 : 2024.06.08 - 2024.07.26
 - 인원 : 1인
 - 기술스택 : </br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -57,4 +57,5 @@
 24. Private attributes
 25. Inheritance
 26. Creating packages
+27. Flask
     </br>
